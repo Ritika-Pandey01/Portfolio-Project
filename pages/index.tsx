@@ -128,7 +128,7 @@ export default function Home() {
                 <p className='py-4'>
                   Researched various security misconfigurations in the <span className='text-teal-600 font-medium'>AWS</span> and <span className='text-teal-600 font-medium'>Azure cloud</span>.
                   Identified and removed various cloud misconfigurations present on the AWS and Azure cloud.
-                  Documented technical workflows involved in removing the misconfigurations present in AWS and Azure cloud for  <span className='text-teal-600 font-medium'>PingSafe's Knowledge Base</span>.
+                  Documented technical workflows involved in removing the misconfigurations present in AWS and Azure cloud for  <span className='text-teal-600 font-medium'>Knowledge Base</span> of PingSafe.
                   Identified misconfigurations like Users MFA Disabled, Groups Without Users, S3 Bucket Insecure Read Access
                   S3 Buckets With Global Policy and soon for AWS Services, like AWS IAM,Amazon S3 etc.
 
