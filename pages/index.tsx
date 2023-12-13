@@ -33,7 +33,7 @@ export default function Home() {
             <h1 className='text-xl font-burtons dark:text-white'>DEVELOPEDbyRITIKA</h1>
             <ul className='flex items-center'>
               <li><BsFillMoonStarsFill onClick={() => setDarkMode(!darkMode)} className='cursor-pointer dark:bg-teal-700 dark:rounded-full dark:w-6 dark:h-6 dark:p-2' /></li>
-              <li><a className='bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-8' href="https://drive.google.com/file/d/1gXIGSQyXGOELHHgOc0hyPJbp1wRpvyi0/view?usp=sharing">Resume</a></li>
+              <li><a className='bg-gradient-to-r from-cyan-500 to-teal-500 text-white px-4 py-2 rounded-md ml-8' href="https://drive.google.com/file/d/18-IRbQ2bQAbQ9AGXBrGW4BhJG_gnQBkY/view?usp=sharing">Resume</a></li>
             </ul>
           </nav>
           <div className='text-center p-10'>
